@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_textbox.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\textbox.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\input.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_product_add.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_product_add.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_card.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\header_card.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_list_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\setting_list_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rectangle.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\rectangle.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_grey600_36dp.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_menu.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\bg_btn_menu.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category_list.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_category_list.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_laporan.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\laporan.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_grid_checked.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_grid_checked.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_dialog.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_confirm_dialog.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tabel.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\tabel.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arus_kas.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\arus_kas.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_oke.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\oke.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_batal.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\batal.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_master_twopane.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_master_twopane.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_add.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_user_add.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logoyondev.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\logoyondev.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jmlh_transaksi.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\jmlh_transaksi.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save_grey600_36dp.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_minus_clicked.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_minus_clicked.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_list_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\product_list_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_danger.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\danger.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_product_list.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_product_list.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_list_black_36dp.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_list_black_36dp.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sendok.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_sendok.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stok_barang.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\stok_barang.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gamewae.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\gamewae.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_body_cart.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\body_cart.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_trans.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\bg_btn_trans.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_total.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\total.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_noimage_square.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_noimage_square.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_list.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_user_list.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_list.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_setting_list.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_footer_cart.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\footer_cart.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_twopane.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_setting_twopane.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_update_brng.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\update_brng.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_master_list.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_master_list.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg1.jpg.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus_clicked.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_plus_clicked.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting_detail.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_setting_detail.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_simpan.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\simpan.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.jpg.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\logout.jpg"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_textbox_large.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\textbox_large.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kurang.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\kurang.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_detail.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_setting_detail.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quick_order.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_quick_order.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnblue.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\btnblue.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tambah.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\tambah.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_qr.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_qr.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shadow.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_trans_state.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\btn_trans_state.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_activation.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_activation.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_master_detail.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\activity_master_detail.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_transaksi.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\transaksi.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus_disabled.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_plus_disabled.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_list_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\category_list_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash2.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-mdpi\\splash2.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_grid_list_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\product_grid_list_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_trans.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\btn_trans.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bg.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_white.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\rounded_white.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.jpg.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\setting.jpg"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_list_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\cart_list_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_blue.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\bg_btn_blue.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_master.jpg.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\master.jpg"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_list_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_big.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_big.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_state.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\icon_state.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_minus_disabled.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_minus_disabled.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_buy.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\buy.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_minus.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\bg_btn_minus.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keluar.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\keluar.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_minus.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_minus.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_report.jpg.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\report.jpg"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_transparent.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\btn_transparent.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_down.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_grid_on_black_36dp.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_grid_on_black_36dp.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tgl.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\tgl.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reset.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_plus.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable\\bg_btn_plus.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_spinner_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\category_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grid_container_trans.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\grid_container_trans.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_grid_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\product_grid_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_spinner_menu_item.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\category_spinner_menu_item.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_grey600_36dp.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_submit.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\submit.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_master_detail.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_master_detail.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_grey600_36dp.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnblue_state.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\btnblue_state.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category_add.xml.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\layout\\fragment_category_add.xml"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_textbox_outline.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\textbox_outline.png"
+    },
+    {
+        "merged": "E:\\KasirKu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grid_container.png.flat",
+        "source": "E:\\KasirKu-master\\app\\src\\main\\res\\drawable-hdpi\\grid_container.png"
+    }
+]
