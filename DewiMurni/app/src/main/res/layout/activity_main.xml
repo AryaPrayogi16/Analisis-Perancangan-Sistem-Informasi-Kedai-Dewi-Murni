@@ -1,0 +1,167 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    android:orientation="horizontal"
+    tools:context="${relativePackage}.${activityClass}" >
+
+	<android.support.constraint.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+
+		<android.support.constraint.ConstraintLayout
+			android:layout_width="0dp"
+			android:layout_height="202dp"
+			android:layout_marginStart="32dp"
+			android:layout_marginTop="32dp"
+			android:layout_marginEnd="32dp"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toEndOf="@+id/imageView"
+			app:layout_constraintTop_toBottomOf="@+id/constraintLayout2">
+
+			<View
+				android:id="@+id/view5"
+				android:layout_width="0dp"
+				android:layout_height="0dp"
+				android:background="@drawable/tabel"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintHorizontal_bias="1.0"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent"
+				app:layout_constraintVertical_bias="0.0" />
+		</android.support.constraint.ConstraintLayout>
+
+		<ImageView
+			android:id="@+id/imageView6"
+			android:layout_width="106dp"
+			android:layout_height="31dp"
+			android:layout_marginStart="16dp"
+			android:layout_marginTop="205dp"
+			android:src="@drawable/total"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/constraintLayout2" />
+
+		<ImageView
+			android:id="@+id/imageView"
+			android:layout_width="90dp"
+			android:layout_height="80dp"
+			android:layout_marginTop="120dp"
+			android:src="@drawable/jmlh_transaksi"
+			app:layout_constraintStart_toStartOf="@+id/imageView5"
+			app:layout_constraintTop_toBottomOf="@+id/constraintLayout2" />
+
+		<ImageView
+			android:id="@+id/imageView5"
+			android:layout_width="90dp"
+			android:layout_height="80dp"
+			android:layout_marginStart="24dp"
+			android:layout_marginTop="32dp"
+			android:src="@drawable/tgl"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/constraintLayout2" />
+
+		<android.support.constraint.ConstraintLayout
+			android:id="@+id/constraintLayout2"
+			android:layout_width="0dp"
+			android:layout_height="120dp"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent">
+
+			<View
+				android:id="@+id/view4"
+				android:layout_width="0dp"
+				android:layout_height="0dp"
+				android:background="@drawable/rectangle"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent" />
+		</android.support.constraint.ConstraintLayout>
+
+		<RelativeLayout
+			android:id="@+id/btnSetting"
+			android:layout_width="110dp"
+			android:layout_height="60dp"
+			android:layout_marginTop="24dp"
+			android:layout_marginEnd="16dp"
+			android:background="@drawable/stok_barang"
+			android:clickable="true"
+			app:layout_constraintEnd_toStartOf="@+id/btnLogout"
+			app:layout_constraintTop_toTopOf="@+id/btnLogout"
+			tools:ignore="MissingConstraints" />
+
+		<RelativeLayout
+			android:id="@+id/btnQuickOrder"
+			android:layout_width="110dp"
+			android:layout_height="60dp"
+			android:layout_marginTop="12dp"
+			android:background="@drawable/transaksi"
+			android:clickable="true"
+			app:layout_constraintEnd_toEndOf="@+id/btnLogout"
+			app:layout_constraintStart_toStartOf="@+id/btnLogout"
+			app:layout_constraintTop_toBottomOf="@+id/btnLogout" />
+
+		<RelativeLayout
+			android:id="@+id/btnLogout"
+			android:layout_width="110dp"
+			android:layout_height="60dp"
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_marginTop="16dp"
+			android:background="@drawable/keluar"
+			android:clickable="true"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHorizontal_bias="0.499"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent">
+
+		</RelativeLayout>
+
+		<RelativeLayout
+			android:id="@+id/btnReport"
+			android:layout_width="110dp"
+			android:layout_height="60dp"
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_marginStart="16dp"
+			android:layout_marginTop="24dp"
+			android:background="@drawable/laporan"
+			android:clickable="true"
+			app:layout_constraintStart_toEndOf="@+id/btnLogout"
+			app:layout_constraintTop_toTopOf="@+id/btnLogout" />
+
+		<RelativeLayout
+			android:id="@+id/btnSetting2"
+			android:layout_width="100dp"
+			android:layout_height="60dp"
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_marginTop="24dp"
+			android:layout_marginEnd="16dp"
+			android:background="@drawable/arus_kas"
+			android:clickable="true"
+			app:layout_constraintEnd_toStartOf="@+id/btnSetting"
+			app:layout_constraintTop_toTopOf="@+id/btnLogout">
+
+		</RelativeLayout>
+
+		<RelativeLayout
+			android:id="@+id/btnMasterData"
+			android:layout_width="110dp"
+			android:layout_height="60dp"
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_marginStart="16dp"
+			android:layout_marginTop="24dp"
+			android:background="@drawable/update_brng"
+			android:clickable="true"
+			app:layout_constraintStart_toEndOf="@+id/btnReport"
+			app:layout_constraintTop_toTopOf="@+id/btnLogout" />
+
+	</android.support.constraint.ConstraintLayout>
+</LinearLayout>

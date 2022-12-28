@@ -1,0 +1,7 @@
+#Wed Dec 21 17:14:10 ICT 2022
+base.0=E\:\\KasirKu-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\KasirKu-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
